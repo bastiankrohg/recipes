@@ -13,6 +13,9 @@ Copy [`_mal.md`](_mal.md), fill it in, and name the file after the dish (`fiskes
 | `## Ingredienser` | `- ` lines; group with `### Til sausen` |
 | `## Slik gjør du` | `1. ` one step per line |
 | `## Tips` | optional, like any other `##` section |
+| Photo | optional: `fiskesuppe.jpg` (or `.png`, `.webp`) next to `fiskesuppe.md`, or `bilde: bilder/suppe.jpg` in the front matter |
+
+Weatherboy prints the photo full width under the title: always when you ask by voice, and on the web page when "Med bilde" is ticked.
 
 Drafts graduate with `git mv drafts/fiskesuppe.md .` once they've been cooked and corrected.
 
